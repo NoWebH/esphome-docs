@@ -116,7 +116,7 @@ Test setup
 ----------
 
 With the following code you can quickly setup a node and use Home Assistant's service in the developer tools.
-E.g. for calling ``rtttl.play`` select the service ``esphome.test_esp8266_rtttl_play`` and in service data enter
+E.g. for calling ``rtttl.play`` select the service ``esphome.test_esp8266_play_rtttl`` and in service data enter
 
 .. code-block:: yaml
 
